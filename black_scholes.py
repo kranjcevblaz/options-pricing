@@ -17,6 +17,7 @@ class BlackScholes(StockOption):
             raise ValueError(
                 'Black - Scholes only used for European options, use binomials for American option instead')
 
+    # git test for changes
     def black_scholes(self):
         self.d1 = (np.log(self.S0 / self.K) + (self.sigma ** 2 / 2) * self.T) / (self.sigma * np.sqrt(self.T))
         self.d2 = self.d1 - self.sigma * np.sqrt(self.T)
