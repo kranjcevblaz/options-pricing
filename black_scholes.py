@@ -5,6 +5,7 @@ from sympy.stats import Normal, cdf
 from option_calc import StockOption
 
 
+# random comment here
 class BlackScholes(StockOption):
     def __init__(self, S0, K, r, T, N, prm, option_price):  # option_price - arg only used to calc implied volatility
         super().__init__(S0, K, r, T, N, prm)
@@ -28,6 +29,9 @@ class BlackScholes(StockOption):
             price = np.exp(-self.r * self.T) * (self.K * stats.norm.cdf(-self.d2) - self.S0 * stats.norm.cdf(-self.d1))
 
         return price
+
+    def random_function_test(self):
+        pass
 
     def implied_vol(self):  # Newton's method for root finding with iterations
         self.d1 = (np.log(self.S0 / self.K) + (self.r - 0.5 * self.sigma ** 2) * self.T) / (self.sigma * np.sqrt(self.T))

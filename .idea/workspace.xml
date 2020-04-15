@@ -3,8 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="4a9ff4b5-5a00-4b9b-9355-9e72ca02d0c2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/binomials.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/binomials.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/black_scholes.py" beforeDir="false" afterPath="$PROJECT_DIR$/black_scholes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +22,28 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="githubRepo1/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/kranjcevblaz/OptionsPricing.git" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1a2nX8HA8INsWWLE7US9hPBZ09z" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -31,10 +54,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.black_scholes">
+  <component name="RunManager" selected="Python.run_example">
     <configuration name="black_scholes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="binomials" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -142,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.black_scholes" />
         <item itemvalue="Python.run_example" />
-        <item itemvalue="Python.stock_volatility" />
-        <item itemvalue="Python.option" />
         <item itemvalue="Python.option_calc" />
+        <item itemvalue="Python.option" />
+        <item itemvalue="Python.black_scholes" />
+        <item itemvalue="Python.stock_volatility" />
       </list>
     </recent_temporary>
   </component>
@@ -166,33 +189,33 @@
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
     <state x="648" y="155" key="#stock_volatility/305.1200.1280.800/0.0.1920.1200@0.0.1920.1200" timestamp="1585943713877" />
-    <state width="1259" height="146" key="GridCell.Tab.0.bottom" timestamp="1586891720408">
-      <screen x="305" y="1200" width="1280" height="800" />
+    <state width="1899" height="237" key="GridCell.Tab.0.bottom" timestamp="1586974045292">
+      <screen x="0" y="0" width="1920" height="1200" />
     </state>
     <state width="1375" height="262" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1585945279698" />
-    <state width="1258" height="121" key="GridCell.Tab.0.bottom/305.1200.1280.800/0.0.1920.1200@0.0.1920.1200" timestamp="1586281780357" />
-    <state width="1259" height="146" key="GridCell.Tab.0.bottom/305.1200.1280.800/0.0.1920.1200@305.1200.1280.800" timestamp="1586891720408" />
+    <state width="1899" height="237" key="GridCell.Tab.0.bottom/305.1200.1280.800/0.0.1920.1200@0.0.1920.1200" timestamp="1586974045292" />
+    <state width="629" height="146" key="GridCell.Tab.0.bottom/305.1200.1280.800/0.0.1920.1200@305.1200.1280.800" timestamp="1586971975620" />
     <state width="1258" height="117" key="GridCell.Tab.0.bottom/305.1200.1280.800/0.23.1920.1177@305.1200.1280.800" timestamp="1586279959087" />
-    <state width="1259" height="146" key="GridCell.Tab.0.center" timestamp="1586891720406">
-      <screen x="305" y="1200" width="1280" height="800" />
+    <state width="1899" height="237" key="GridCell.Tab.0.center" timestamp="1586974045290">
+      <screen x="0" y="0" width="1920" height="1200" />
     </state>
     <state width="1375" height="262" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1585945279697" />
-    <state width="1258" height="121" key="GridCell.Tab.0.center/305.1200.1280.800/0.0.1920.1200@0.0.1920.1200" timestamp="1586281780356" />
-    <state width="1259" height="146" key="GridCell.Tab.0.center/305.1200.1280.800/0.0.1920.1200@305.1200.1280.800" timestamp="1586891720406" />
+    <state width="1899" height="237" key="GridCell.Tab.0.center/305.1200.1280.800/0.0.1920.1200@0.0.1920.1200" timestamp="1586974045290" />
+    <state width="629" height="146" key="GridCell.Tab.0.center/305.1200.1280.800/0.0.1920.1200@305.1200.1280.800" timestamp="1586971975618" />
     <state width="1258" height="117" key="GridCell.Tab.0.center/305.1200.1280.800/0.23.1920.1177@305.1200.1280.800" timestamp="1586279959084" />
-    <state width="1259" height="146" key="GridCell.Tab.0.left" timestamp="1586891720405">
-      <screen x="305" y="1200" width="1280" height="800" />
+    <state width="1899" height="237" key="GridCell.Tab.0.left" timestamp="1586974045289">
+      <screen x="0" y="0" width="1920" height="1200" />
     </state>
     <state width="1375" height="262" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1585945279696" />
-    <state width="1258" height="121" key="GridCell.Tab.0.left/305.1200.1280.800/0.0.1920.1200@0.0.1920.1200" timestamp="1586281780355" />
-    <state width="1259" height="146" key="GridCell.Tab.0.left/305.1200.1280.800/0.0.1920.1200@305.1200.1280.800" timestamp="1586891720405" />
+    <state width="1899" height="237" key="GridCell.Tab.0.left/305.1200.1280.800/0.0.1920.1200@0.0.1920.1200" timestamp="1586974045289" />
+    <state width="629" height="146" key="GridCell.Tab.0.left/305.1200.1280.800/0.0.1920.1200@305.1200.1280.800" timestamp="1586971975618" />
     <state width="1258" height="117" key="GridCell.Tab.0.left/305.1200.1280.800/0.23.1920.1177@305.1200.1280.800" timestamp="1586279959083" />
-    <state width="1259" height="146" key="GridCell.Tab.0.right" timestamp="1586891720407">
-      <screen x="305" y="1200" width="1280" height="800" />
+    <state width="1899" height="237" key="GridCell.Tab.0.right" timestamp="1586974045291">
+      <screen x="0" y="0" width="1920" height="1200" />
     </state>
     <state width="1375" height="262" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1585945279697" />
-    <state width="1258" height="121" key="GridCell.Tab.0.right/305.1200.1280.800/0.0.1920.1200@0.0.1920.1200" timestamp="1586281780357" />
-    <state width="1259" height="146" key="GridCell.Tab.0.right/305.1200.1280.800/0.0.1920.1200@305.1200.1280.800" timestamp="1586891720407" />
+    <state width="1899" height="237" key="GridCell.Tab.0.right/305.1200.1280.800/0.0.1920.1200@0.0.1920.1200" timestamp="1586974045291" />
+    <state width="629" height="146" key="GridCell.Tab.0.right/305.1200.1280.800/0.0.1920.1200@305.1200.1280.800" timestamp="1586971975619" />
     <state width="1258" height="117" key="GridCell.Tab.0.right/305.1200.1280.800/0.23.1920.1177@305.1200.1280.800" timestamp="1586279959086" />
     <state width="1258" height="121" key="GridCell.Tab.1.bottom" timestamp="1586281780358">
       <screen x="0" y="0" width="1920" height="1200" />
@@ -214,12 +237,20 @@
     </state>
     <state width="1258" height="121" key="GridCell.Tab.1.right/305.1200.1280.800/0.0.1920.1200@0.0.1920.1200" timestamp="1586281780358" />
     <state width="1258" height="121" key="GridCell.Tab.1.right/305.1200.1280.800/0.0.1920.1200@305.1200.1280.800" timestamp="1586275857189" />
-    <state x="412" y="215" key="SettingsEditor" timestamp="1586282360167">
+    <state x="469" y="239" key="SettingsEditor" timestamp="1586973983273">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state x="469" y="239" key="SettingsEditor/305.1200.1280.800/0.0.1920.1200@0.0.1920.1200" timestamp="1586281773423" />
-    <state x="412" y="215" key="SettingsEditor/305.1200.1280.800/0.0.1920.1200@305.1200.1280.800" timestamp="1586282360167" />
+    <state x="469" y="239" key="SettingsEditor/305.1200.1280.800/0.0.1920.1200@0.0.1920.1200" timestamp="1586973983273" />
+    <state x="412" y="215" key="SettingsEditor/305.1200.1280.800/0.0.1920.1200@305.1200.1280.800" timestamp="1586971751367" />
     <state x="469" y="239" key="SettingsEditor/305.1223.1280.777/0.0.1920.1200@0.0.1920.1200" timestamp="1585990709613" />
+    <state x="100" y="100" width="1720" height="1000" key="ShowDiffWithBranchDialog" timestamp="1586974875922">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="100" y="100" width="1720" height="1000" key="ShowDiffWithBranchDialog/305.1200.1280.800/0.0.1920.1200@0.0.1920.1200" timestamp="1586974875922" />
+    <state x="560" y="340" key="Vcs.Push.Dialog.v2" timestamp="1586976426493">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="560" y="340" key="Vcs.Push.Dialog.v2/305.1200.1280.800/0.0.1920.1200@0.0.1920.1200" timestamp="1586976426493" />
     <state x="569" y="187" width="782" height="825" key="find.popup" timestamp="1585943325035">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
