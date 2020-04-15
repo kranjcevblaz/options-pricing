@@ -27,9 +27,6 @@ class Binomial(StockOption):
                 stocktree[j, i] = self.S0 * (self.u ** (i - j)) * (self.d ** j)
         return stocktree
 
-    def temp_test(self):
-        pass
-
     def option_price(self, stocktree):
         option = np.zeros([self.M, self.M])
         # the last node only: S0 - K
