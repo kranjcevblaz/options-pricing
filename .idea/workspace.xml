@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a9ff4b5-5a00-4b9b-9355-9e72ca02d0c2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a2nX8HA8INsWWLE7US9hPBZ09z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Python.black_scholes">
+    <configuration name="black_scholes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="binomials" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/black_scholes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="option" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="binomials" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/option.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="option_calc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="binomials" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/option_calc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="binomials" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_example.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="stock_volatility" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="binomials" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stock_volatility.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.black_scholes" />
+        <item itemvalue="Python.run_example" />
+        <item itemvalue="Python.stock_volatility" />
+        <item itemvalue="Python.option" />
+        <item itemvalue="Python.option_calc" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="545" y="1265" key="#Inspections" timestamp="1586860268064">
+      <screen x="305" y="1200" width="1280" height="800" />
+    </state>
+    <state x="545" y="1265" key="#Inspections/305.1200.1280.800/0.0.1920.1200@305.1200.1280.800" timestamp="1586860268064" />
+    <state x="545" y="1265" width="800" height="717" key="#Intentions" timestamp="1586276292604">
+      <screen x="305" y="1200" width="1280" height="800" />
+    </state>
+    <state x="545" y="1265" width="800" height="717" key="#Intentions/305.1200.1280.800/0.0.1920.1200@305.1200.1280.800" timestamp="1586276292604" />
+    <state x="648" y="155" key="#stock_volatility" timestamp="1585943713877">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="648" y="155" key="#stock_volatility/305.1200.1280.800/0.0.1920.1200@0.0.1920.1200" timestamp="1585943713877" />
+    <state width="1259" height="146" key="GridCell.Tab.0.bottom" timestamp="1586891720408">
+      <screen x="305" y="1200" width="1280" height="800" />
+    </state>
+    <state width="1375" height="262" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1585945279698" />
+    <state width="1258" height="121" key="GridCell.Tab.0.bottom/305.1200.1280.800/0.0.1920.1200@0.0.1920.1200" timestamp="1586281780357" />
+    <state width="1259" height="146" key="GridCell.Tab.0.bottom/305.1200.1280.800/0.0.1920.1200@305.1200.1280.800" timestamp="1586891720408" />
+    <state width="1258" height="117" key="GridCell.Tab.0.bottom/305.1200.1280.800/0.23.1920.1177@305.1200.1280.800" timestamp="1586279959087" />
+    <state width="1259" height="146" key="GridCell.Tab.0.center" timestamp="1586891720406">
+      <screen x="305" y="1200" width="1280" height="800" />
+    </state>
+    <state width="1375" height="262" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1585945279697" />
+    <state width="1258" height="121" key="GridCell.Tab.0.center/305.1200.1280.800/0.0.1920.1200@0.0.1920.1200" timestamp="1586281780356" />
+    <state width="1259" height="146" key="GridCell.Tab.0.center/305.1200.1280.800/0.0.1920.1200@305.1200.1280.800" timestamp="1586891720406" />
+    <state width="1258" height="117" key="GridCell.Tab.0.center/305.1200.1280.800/0.23.1920.1177@305.1200.1280.800" timestamp="1586279959084" />
+    <state width="1259" height="146" key="GridCell.Tab.0.left" timestamp="1586891720405">
+      <screen x="305" y="1200" width="1280" height="800" />
+    </state>
+    <state width="1375" height="262" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1585945279696" />
+    <state width="1258" height="121" key="GridCell.Tab.0.left/305.1200.1280.800/0.0.1920.1200@0.0.1920.1200" timestamp="1586281780355" />
+    <state width="1259" height="146" key="GridCell.Tab.0.left/305.1200.1280.800/0.0.1920.1200@305.1200.1280.800" timestamp="1586891720405" />
+    <state width="1258" height="117" key="GridCell.Tab.0.left/305.1200.1280.800/0.23.1920.1177@305.1200.1280.800" timestamp="1586279959083" />
+    <state width="1259" height="146" key="GridCell.Tab.0.right" timestamp="1586891720407">
+      <screen x="305" y="1200" width="1280" height="800" />
+    </state>
+    <state width="1375" height="262" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1585945279697" />
+    <state width="1258" height="121" key="GridCell.Tab.0.right/305.1200.1280.800/0.0.1920.1200@0.0.1920.1200" timestamp="1586281780357" />
+    <state width="1259" height="146" key="GridCell.Tab.0.right/305.1200.1280.800/0.0.1920.1200@305.1200.1280.800" timestamp="1586891720407" />
+    <state width="1258" height="117" key="GridCell.Tab.0.right/305.1200.1280.800/0.23.1920.1177@305.1200.1280.800" timestamp="1586279959086" />
+    <state width="1258" height="121" key="GridCell.Tab.1.bottom" timestamp="1586281780358">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1258" height="121" key="GridCell.Tab.1.bottom/305.1200.1280.800/0.0.1920.1200@0.0.1920.1200" timestamp="1586281780358" />
+    <state width="1258" height="121" key="GridCell.Tab.1.bottom/305.1200.1280.800/0.0.1920.1200@305.1200.1280.800" timestamp="1586275857190" />
+    <state width="1258" height="121" key="GridCell.Tab.1.center" timestamp="1586281780357">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1258" height="121" key="GridCell.Tab.1.center/305.1200.1280.800/0.0.1920.1200@0.0.1920.1200" timestamp="1586281780357" />
+    <state width="1258" height="121" key="GridCell.Tab.1.center/305.1200.1280.800/0.0.1920.1200@305.1200.1280.800" timestamp="1586275857188" />
+    <state width="1258" height="121" key="GridCell.Tab.1.left" timestamp="1586281780357">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1258" height="121" key="GridCell.Tab.1.left/305.1200.1280.800/0.0.1920.1200@0.0.1920.1200" timestamp="1586281780357" />
+    <state width="1258" height="121" key="GridCell.Tab.1.left/305.1200.1280.800/0.0.1920.1200@305.1200.1280.800" timestamp="1586275857187" />
+    <state width="1258" height="121" key="GridCell.Tab.1.right" timestamp="1586281780358">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1258" height="121" key="GridCell.Tab.1.right/305.1200.1280.800/0.0.1920.1200@0.0.1920.1200" timestamp="1586281780358" />
+    <state width="1258" height="121" key="GridCell.Tab.1.right/305.1200.1280.800/0.0.1920.1200@305.1200.1280.800" timestamp="1586275857189" />
+    <state x="412" y="215" key="SettingsEditor" timestamp="1586282360167">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="469" y="239" key="SettingsEditor/305.1200.1280.800/0.0.1920.1200@0.0.1920.1200" timestamp="1586281773423" />
+    <state x="412" y="215" key="SettingsEditor/305.1200.1280.800/0.0.1920.1200@305.1200.1280.800" timestamp="1586282360167" />
+    <state x="469" y="239" key="SettingsEditor/305.1223.1280.777/0.0.1920.1200@0.0.1920.1200" timestamp="1585990709613" />
+    <state x="569" y="187" width="782" height="825" key="find.popup" timestamp="1585943325035">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="569" y="187" width="782" height="825" key="find.popup/305.1200.1280.800/0.0.1920.1200@0.0.1920.1200" timestamp="1585943325035" />
+    <state x="836" y="1517" width="710" height="293" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1586281981744">
+      <screen x="305" y="1200" width="1280" height="800" />
+    </state>
+    <state x="836" y="1517" width="710" height="293" key="org.intellij.images.editor.actions.BackgroundImageDialog/305.1200.1280.800/0.0.1920.1200@305.1200.1280.800" timestamp="1586281981744" />
+    <state x="707" y="1238" key="refactoring.ChangeSignatureDialog" timestamp="1586280597512">
+      <screen x="305" y="1200" width="1280" height="800" />
+    </state>
+    <state x="707" y="1238" key="refactoring.ChangeSignatureDialog/305.1200.1280.800/0.0.1920.1200@305.1200.1280.800" timestamp="1586280597512" />
+  </component>
+</project>
