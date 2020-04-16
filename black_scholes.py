@@ -18,8 +18,6 @@ class BlackScholes(StockOption):
                 'Black - Scholes only used for European options, use binomials for American option instead')
 
     def black_scholes(self):
-        # self.d1 = (np.log(self.S0 / self.K) + (self.sigma ** 2 / 2) * self.T) / (self.sigma * np.sqrt(self.T))
-        # self.d2 = self.d1 - self.sigma * np.sqrt(self.T)
 
         if self.is_call:
             price = np.exp(-self.r * self.T) * (self.S0 * stats.norm.cdf(self.d1) - self.K * stats.norm.cdf(self.d2))
@@ -29,10 +27,6 @@ class BlackScholes(StockOption):
         return price
 
     def implied_vol(self):  # Newton's method for root finding with iterations
-        # self.d1 = (np.log(self.S0 / self.K) + (self.r + 0.5 * self.sigma ** 2) * self.T) / (
-        #             self.sigma * np.sqrt(self.T))
-        # self.d2 = (np.log(self.S0 / self.K) + (self.r + 0.5 * self.sigma ** 2) * self.T) / (
-        #             self.sigma * np.sqrt(self.T))
 
         if self.is_call:
             fx = self.S0 * si.norm.cdf(self.d1, 0.0, 1.0) - self.K * np.exp(-self.r * self.T) * si.norm.cdf(self.d2,
