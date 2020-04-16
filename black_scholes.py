@@ -5,7 +5,6 @@ from sympy.stats import Normal, cdf
 from option_calc import StockOption
 
 
-# random comment here
 class BlackScholes(StockOption):
     def __init__(self, S0, K, r, T, N, prm, option_price):  # option_price - arg only used to calc implied volatility
         super().__init__(S0, K, r, T, N, prm)
@@ -18,7 +17,6 @@ class BlackScholes(StockOption):
             raise ValueError(
                 'Black - Scholes only used for European options, use binomials for American option instead')
 
-    # git test for changes
     def black_scholes(self):
         self.d1 = (np.log(self.S0 / self.K) + (self.sigma ** 2 / 2) * self.T) / (self.sigma * np.sqrt(self.T))
         self.d2 = self.d1 - self.sigma * np.sqrt(self.T)
@@ -30,12 +28,11 @@ class BlackScholes(StockOption):
 
         return price
 
-    def random_function_test(self):
-        pass
-
     def implied_vol(self):  # Newton's method for root finding with iterations
-        self.d1 = (np.log(self.S0 / self.K) + (self.r - 0.5 * self.sigma ** 2) * self.T) / (self.sigma * np.sqrt(self.T))
-        self.d2 = (np.log(self.S0 / self.K) + (self.r - 0.5 * self.sigma ** 2) * self.T) / (self.sigma * np.sqrt(self.T))
+        self.d1 = (np.log(self.S0 / self.K) + (self.r + 0.5 * self.sigma ** 2) * self.T) / (
+                    self.sigma * np.sqrt(self.T))
+        self.d2 = (np.log(self.S0 / self.K) + (self.r + 0.5 * self.sigma ** 2) * self.T) / (
+                    self.sigma * np.sqrt(self.T))
 
         if self.is_call:
             fx = self.S0 * si.norm.cdf(self.d1, 0.0, 1.0) - self.K * np.exp(-self.r * self.T) * si.norm.cdf(self.d2,
